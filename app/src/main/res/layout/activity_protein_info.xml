@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ext="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cloverrepublic.dietapp.ProteinInfoActivity">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.bluejamesbond.text.DocumentView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ext:documentView_antialias="true"
+                ext:documentView_insetPadding="8dp"
+                ext:documentView_text="@string/DietProtein1"
+                ext:documentView_textAlignment="justified"
+                ext:documentView_textFormat="plain"
+                ext:documentView_textSize="16sp"
+                ext:documentView_textSubPixel="true" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="6dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/food3" />
+
+            <com.bluejamesbond.text.DocumentView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ext:documentView_antialias="true"
+                ext:documentView_insetPadding="8dp"
+                ext:documentView_text="@string/DietProtein2"
+                ext:documentView_textAlignment="justified"
+                ext:documentView_textFormat="plain"
+                ext:documentView_textSize="16sp"
+                ext:documentView_textSubPixel="true" />
+
+            <com.bluejamesbond.text.DocumentView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ext:documentView_antialias="true"
+                ext:documentView_insetPadding="8dp"
+                ext:documentView_text="@string/DietProtein3"
+                ext:documentView_textAlignment="justified"
+                ext:documentView_textFormat="plain"
+                ext:documentView_textSize="16sp"
+                ext:documentView_textSubPixel="true" />
+
+            <com.bluejamesbond.text.DocumentView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ext:documentView_antialias="true"
+                ext:documentView_insetPadding="8dp"
+                ext:documentView_text="@string/DietProtein4"
+                ext:documentView_textAlignment="justified"
+                ext:documentView_textFormat="plain"
+                ext:documentView_textSize="16sp"
+                ext:documentView_textSubPixel="true" />
+
+            <com.bluejamesbond.text.DocumentView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ext:documentView_antialias="true"
+                ext:documentView_insetPadding="8dp"
+                ext:documentView_text="@string/DietProtein5"
+                ext:documentView_textAlignment="justified"
+                ext:documentView_textFormat="plain"
+                ext:documentView_textSize="16sp"
+                ext:documentView_textSubPixel="true" />
+
+            <com.bluejamesbond.text.DocumentView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ext:documentView_antialias="true"
+                ext:documentView_insetPadding="8dp"
+                ext:documentView_text="@string/DietProtein6"
+                ext:documentView_textAlignment="justified"
+                ext:documentView_textFormat="plain"
+                ext:documentView_textSize="16sp"
+                ext:documentView_textSubPixel="true" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

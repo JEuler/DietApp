@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856256422610",
+    "project_id": "dietapp-7ef2d"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856256422610:android:427e7cfee5b8bd33",
+        "android_client_info": {
+          "package_name": "com.cloverrepublic.dietapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5gcGCVnjyMKVr4JGNUZTmzN9FS-hBCP0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-46339317-4"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2,
+          "test_banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+          "test_interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

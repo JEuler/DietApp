@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">WinFood</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-6167393052376560/7948516333</string>
+    <string name="DietBasics1">The most important thing in weight loss and weight gain is energy balance. With food we get a certain amount of energy, and in order to lose weight, one should consume more energy per day than he/she received from food. High calorie food along with sedentary lifestyle inevitably cause weight gain.</string>
+    <string name="DietBasics2">To find out how much calories you should have per day, first, you should calculate the Basal Metabolic Rate (BMR) by the following formula: For women: BMR = 9,99 * weight (kg) + 6.25 * height (cm) - 4,92 * age - 161
+For men: BMR = 9,99 * weight (kg) + 6.25 * height (cm) – 4,92 * age + 5
+As a result, you get the necessary number of calories your body requires to support vital body functions at rest. This is the minimum calories number required each day.
+</string>
+    <string name="DietBasics3">To calculate the number of calories consumed per day due to the activity level, you should multiply the BMR by the following coefficients:
+Sedentary lifestyle: BMR x 1.2
+Low activity level (sports 1-3 times a week): BMR x 1.375
+Medium activity level (sports 3-5 times a week): BMR x 1.725
+High activity level (sports 6-7 times a week): BMR x 1.725
+Very high activity level (sports on a daily basis, high physical activity level at work, trainings twice a day): BMR x 1.9
+Afterwards, you should take off 15-20% from the overall consumption. This way we get the number of calories required for effective and safe fat loss.
+</string>
+    <string name="DietSlim1">Weight scale is one of the worst ways to monitor the weight loss progress. Our body mass includes the following constituents: bone mass, visceral organs mass, muscle mass, fat, liquid etc. Weight scale measurement provides a combination of these constituents thus sometimes it is hard to determine the exact reason of weight gain or loss.
+</string>
+    <string name="DietSlim2">So how to monitor the weight loss progress?</string>
+    <string name="DietSlim3">1.	take a picture. Take shots at the same position using the same mirror – this will help you to notice and evaluate your body changes;</string>
+    <string name="DietSlim4">2.	take body measurements (breast, waist, hip);</string>
+    <string name="DietSlim5">3.	pay attention to your clothes. A couple of months your jeans were chock-a-block, and now you have to tighten your belt? Congratulations, you are on the right track!</string>
+    <string name="DietSlim6">4.	if you would like to calculate the fat and muscle percent, you can take a Bio-impedance body composition analysis which is available at some health care institutions as well as at fitness clubs. </string>
+    <string name="DietProtein1">As we all know proteins are very important for our body. So what is the most essential part of proteins?
+Protein is the general building material in our organism. It consists of 20 amino acids what are responsible for cellular regenerating, the muscle mass growth, the quality of nails, hair, skin etc.</string>
+    <string name="DietProtein2">The protein-reach foods afford to control weight moving away the esurience.
+When our body doesn’t get enough proteins it starts using its backups. In other words, it starts taking proteins from the muscles. Lack of protein causes skin sagginess and dryness, weakening of immune system, perversion of the organs of digestion and many others disorders. Thus it is so important to support protein balance.
+</string>
+    <string name="DietProtein3">According to multiple studies, the minimum amount of proteins is 1-1,5 grams per kilogram of weight per day. For people doing sports and having active lifestyle this amount is 2-2,5 grams per kilogram. It’s better not to overeat proteins – it won’t go to fat but will put an additional stress load on digestive system and kidneys. </string>
+    <string name="DietProtein4">There are two types of protein – the animal protein (meat, poultry, seafood, eggs, dairy) and the plant protein (vegetables, cereals, beans, nuts and seeds).  The animal proteins contain all the necessary amino acids since these proteins are similar to the ones in our body. However, the food rich of animal proteins often contain much cholesterol and saturated fat which in big amount can cause obesity and cardiovascular diseases.  That is why it’s better to give priority to the low-fat foods. </string>
+    <string name="DietProtein5">The plant protein doesn’t contain saturated fat and cholesterol but it doesn’t provide full amino acid balance. Many experts say that the best diet should combine both types of protein.</string>
+    <string name="DietProtein6">Now let’s sort out what foods are rich of protein. The standard protein is the egg white which is easily and quickly absorbed by organism providing the full array of amino acids. The second protein product is lean meat (chicken, turkey, lean beef, rabbit meat and lean veal). Also don’t forget about fish and seafood which afford us to diversify our ration.</string>
+    <string name="DietTable">Protein table</string>
+    <string name="DietBreakfast1">We all know that having breakfast is a nice healthy habit. But there are some people that have problems with breakfasts, they just don\'t want to eat at the morning. So, what can be done in that case?</string>
+    <string name="DietBreakfast2">- As a rule the low appetite at the morning is caused by high appetite at the yesterday evening. Try to eat less at evening, just 2 hours before the sleep, and you will feel hunger at the morning; </string>
+    <string name="DietBreakfast3">- No time for cooking at the morning? Just cook at the yesterday evening; </string>
+    <string name="DietBreakfast4">- You can try two ways to grow your appetite: drink a glass water or take a contrast shower. </string>
+    <string name="DietBreakfast5">- If you don\'t have success with above methods just take the breakfast with you to the work or study!</string>
+    <string name="DietFats1">Along with proteins and carbohydrates, fats are one of the most important components required for normal organism functioning. Some people exclude fats from their ration following the idea that “if you eat fats – you become fat”. However, it’s not true. On the opposite, smart fats intake helps to control weight and keep slim fit. </string>
+    <string name="DietFats2">Fats are the most profitable energy providers, they make our skin soft and smooth and hair – shining and healthy, they normalize the reproductive function, contribute to absorption of fat-soluble vitamins, protect the internal parts of the body from mechanical attacks and perform a great deal of useful functions. Fats keep us being full for a long time since its absorption takes more time.</string>
+    <string name="DietFats3">The deficit of fats causes: skin problems; growth inhibition and slow development of organism; reducing reproductive function, menolipsis (cessation of menstruation); cholesterol metabolism deregulation; neurological and brain disorders;</string>
+    <string name="DietFats4">There two types of fats – animal and plant fats. Animal fats contain saturated fatty acids (meat, dairy products). Plant fats are polyunsaturated and monounsaturated fatty acids. It is assumed that the normal ration should include all the fats types with focusing on plant fats because these fatty acids cannot be synthesized by our organism, it should be taken with food. </string>
+    <string name="DietFats5">One fat gram generates nine calories that is why the fat amount is to be controlled in order not to overtake the daily ration. The amount of fats in the ration should not exceed 30% from the overall calorage. The normal amount recommended varies from 0,5 up to 1 gram of fats per kilogram of weight. The biggest amount of saturated fats is found in butter and other milk fats, meat and bacon. Unsaturated fats are found in olive oil, nuts and seeds, fish and its oil.</string>
+    <string name="DietBasicsHeader">Basics</string>
+    <string name="DietSlimHeader">Weight loss</string>
+    <string name="DietProteinHeader">Proteins</string>
+    <string name="DietFatsHeader">Fats</string>
+    <string name="DietCarbohydratesHeader">Hydrocarbonates</string>
+    <string name="DietBreakfastHeader">Breakfast</string>
+    <string name="AboutJulyInfo">July Krivonozhko, fitness trainer</string>
+    <string name="DietCarbohydrates1">Carbohydrates is one of the most essential food components as well as proteins and fats. Carbohydrates are the most important energy source for our body. Carbohydrates accumulate in skeleton muscles, liver and other tissues by way of glycogen. Also carbohydrates regulate the metabolism of proteins and fats, and in combination with proteins they generate some ferments and hormones, salivary and other secretions etc. </string>
+    <string name="DietCarbohydrates2">There are simple carbohydrates and complex carbohydrates what influence our body in different ways. Simple carbohydrates are also called fast or digestible. However, their fast digestibility is not an advantage. Because of such simple structure these carbohydrates are fast digested in the intestine, which hikes the blood glucose level. In return the organism generates a big amount of insulin which quickly transforms sugar to fat. And then we start feeling hungry again. </string>
+    <string name="DietCarbohydrates3">The hiking of blood glucose level causes mood swings, sleepiness and tiredness. The regular big amount intake of simple carbohydrates leads to weight gain, and to others serious health problems (including diabetes). Simple carbohydrates are found in many sweet foods – sugar, sweet fruits, dried fruits, sweets, cakes, cookies and other confectionary products, chocolate, honey, jam, sweet drinks etc.</string>
+    <string name="DietCarbohydrates4">That’s why it’s better to give a priority to complex or slow carbohydrates. Due to their complex structure these carbohydrates are slowly digested, and provide a modest rise of blood glucose level. Complex carbohydrates give a longer feeling of satiation. That’s why it’s better to give a priority to complex or slow carbohydrates. Due to their complex structure these carbohydrates are slowly digested, and provide a modest rise of blood glucose level. Complex carbohydrates give a longer feeling of satiation.</string>
+    <string name="DietCarbohydrates5" formatted="false">One gram of carbohydrates generates 4 calories of energy. The required amount of carbohydrates is 45-55% of daily calorage. Depending on activity level, it’s necessary to have from 3 up to 6 carbohydrates per kilogram of weight. Taking into account that 80% of them should be complex carbohydrates and only 20% - simple carbohydrates.</string>
+    <string name="Instagram">https://www.instagram.com/july_krivonozhko/</string>
+    <string name="about">about</string>
+    <string name="turn_off_ads">turn off ads</string>
+    <string name="Description">This app is a basic information app for the proper nutrition. We will update the information and integrate the calories tables and tools for the diet tracking, but for now it just a bunch of very useful information, which was provided by the July Krivonozhko, fitness trainer and nutrition specialist. You can find her instagram here: </string>
+    <string name="wingym">WinGym: Pump Iron</string>
+</resources>
