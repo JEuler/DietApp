@@ -62,19 +62,4 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(this, BreakfastInfoActivity::class.java)
         startActivity(intent)
     }
-
-    fun onWinGymClick(view: View) {
-        val uri = Uri.parse("market://details?id=com.cloverrepublic.wingym")
-        val goToMarket = Intent(Intent.ACTION_VIEW, uri)
-        // To count with Play market backstack, After pressing back button,
-        // to taken back to our application, we need to add following flags to intent.
-        goToMarket.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY or
-                Intent.FLAG_ACTIVITY_NEW_DOCUMENT or
-                Intent.FLAG_ACTIVITY_MULTIPLE_TASK)
-        try {
-            startActivity(goToMarket)
-        } catch (e: ActivityNotFoundException) {
-            startActivity(Intent(Intent.ACTION_VIEW).setData(uri))
-        }
-    }
 }

@@ -173,13 +173,6 @@
 
             </RelativeLayout>
 
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_columnSpan="2"
-                android:layout_gravity="center_horizontal"
-                android:onClick="onWinGymClick"
-                android:text="@string/wingym"/>
         </GridLayout>
 
     </ScrollView>
